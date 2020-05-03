@@ -1,5 +1,5 @@
 ## Javier Ignacio Martínez Lara
-- *Profesión:* Data Scientist.
+- *Profesión:* Data Scientist
 - *Título:* Magíster en Estadística
 - *Contacto:* +56 9 5521 1445 / martinezjavier243@gmail.com / [linkedin](https://www.linkedin.com/in/javier-mart%C3%ADnez-828680136)
 - *Dirección:* Santa Rosa 991, Santiago Centro. Región Metropolitana de Chile.
