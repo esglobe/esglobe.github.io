@@ -15,11 +15,11 @@ Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universi
 	* *Actividades:*
 		* Diseño de modelos predictivos.
 		* Análisis de datos, elaboración de informes y presentaciones atendiendo las inquietudes de los clientes.
-		* Consultoría y diseño de planes estratégicos según las necesidades del cliente.
+		* Consultoría y diseño de planes estratégicos.
 		* Programación imágenes Docker para procesos automáticos.
 		* Desarrollo de API REST en Python.
-		* Programación de servicios en Shiny (R).
-		* Uso de Kubernetes y GoCD para el deploy de API REST .
+		* Programación de paneles en Shiny (R).
+		* Uso de Kubernetes y GoCD para el deploy de API REST.
 		* Implementación de MongoDB (Flask-MongoEngine y  PyMongo).
   
 2. **Universidad Simón Bolívar** (02/2014-12/2018).
@@ -93,7 +93,7 @@ Español Nativo, Ingles intermedio.
 * [Introduction to Python for Data Science (edX) Course.](https://www.datacamp.com/statement-of-accomplishment/course/5691d7cfb8371155ede2c00267db6ca1c1ac71e4)
 * [Python 3: Programación Orientada a Objetos.](https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fude.my%2FUC-3202539f-20e3-46ad-9cae-c29ea817a0c1)
 * Introducción a Data Science: Programación con R.
-* GIT + GitHub: Todo un Sistema de control de versiones de cero.
+* [GIT + GitHub: Todo un Sistema de control de versiones de cero.](https://www.udemy.com/certificate/UC-b99a53e6-b26b-478f-852e-afd4a4527973/)
 * Intro to SQL for Data Science Course.
 * [SAS® Programming 1: Essentials.](https://www.youracclaim.com/badges/c6a7c4bd-1381-4b06-9104-6574557bb9f5/linked_in_profile)
 * Gerencia de Proyectos – Grupo Integrado para el Desarrollo de la Empresa.
