@@ -9,9 +9,17 @@
 Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universidad Simón Bolívar. Experiencia en diseño y ajuste de modelos predictivos, análisis de datos, elaboración de reportes y presentación de la información. Diseño de API REST y su implementación a través de imágenes Docker. Buenas prácticas en Python, R, SQL y MongoDB. Experiencia de más de 5 años en la enseñanza de matemática, estadística y probabilidades. Proactivo, responsable, organizado, dedicado, capaz de transmitir eficazmente las ideas y con alto compromiso hacia la empresa y sus clientes. 
 
 ### ANTECEDENTES LABORALES
+1.- **Derco** (11/2020-Actual).
+	* *Cargo:* *Data Scientist*.
+	* *Actividades:*
+		* Diseño de modelos predictivos.
+		* Análisis de datos, elaboración de informes y presentaciones.
+		* Diseño de planes estratégicos basados en la información de los datos.
+		* Automatización Azure.
+		* Programación en R, Python y SQL para la implementación de procesos BigData (Databricks).
 
-1. **Alto-MovUp Servicios de Consultoría Analytics Limitada** (02/2019-Actual).
-	* *Cargo:* *Analista de Modelamiento de Datos*.
+2. **Alto-MovUp Servicios de Consultoría Analytics Limitada** (02/2019-11/2020).
+	* *Cargo:* *Data Scientist*.
 	* *Actividades:*
 		* Diseño de modelos predictivos.
 		* Análisis de datos, elaboración de informes y presentaciones atendiendo las inquietudes de los clientes.
@@ -22,7 +30,7 @@ Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universi
 		* Uso de Kubernetes y GoCD para el deploy de API REST.
 		* Implementación de MongoDB (Flask-MongoEngine y  PyMongo).
   
-2. **Universidad Simón Bolívar** (02/2014-12/2018).
+3. **Universidad Simón Bolívar** (02/2014-12/2018).
 	* *Cargo:* *Profesor Asistente del Departamento de Computo Científico y Estadística*.
 	* *Actividades:* 
 		* Preparación e impartición de clases de Probabilidades y Estadísticas.
