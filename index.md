@@ -43,7 +43,7 @@ Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universi
 Análisis de datos, Redacción de informes con R Markdown, ajuste de modelos, desarrollo de aplicaciones web con Shiny, programación basada en objetos, diseño de librerías (formato CRAN). Desarrollo de web API (Plumber) y conexión con Apache Spark (Sparklyr).
 
 - **Python:**
-Análisis de datos, ajuste de modelos predictivos, programación basada en objetos. Desarrollo de API REST. Manejo avanzado de Flask-SQLAlcamy, Flask-MongoEngine, Flask-JWT-Extended,  PyMongo, h5py, entre otros.
+Análisis de datos, ajuste de modelos predictivos, programación basada en objetos. Desarrollo de API REST. Manejo avanzado de Flask-SQLAlcamy, Flask-MongoEngine, Flask-JWT-Extended,  PyMongo, h5py, conexión con Apache Spark (PySpark), entre otros.
 
 - **Docker:**
 Diseño de imágenes (Dockerfile) para el tratamiento de datos y levantamiento de web API con Plumber de R y Flask de Python.
@@ -51,8 +51,8 @@ Diseño de imágenes (Dockerfile) para el tratamiento de datos y levantamiento d
 - **MongoDB:**
 Creación de bases de datos y colecciones. Insert, update y delete documentos. Búsquedas avanzadas con el uso de find y aggregate. 
 
-- **SQL:**
-Preparar datos, análisis y reporte de datos.
+- **SQL Server:**
+Preparar datos, análisis y reportes. Creación de vistas, procedimientos almacenados y manipulación de datos espaciales con geometry y/o geography.
 
 - **GIT:**
 Manejo de repositorios locales y desarrollo de proyecto en Bitbucket y GitHub. 
