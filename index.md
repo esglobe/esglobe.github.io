@@ -6,7 +6,7 @@
 
 ### RESUMEN PROFESIONAL
 
-Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universidad Simón Bolívar. Experiencia en diseño y ajuste de modelos predictivos, análisis de datos, elaboración de reportes y presentación de la información. Diseño de API REST y su implementación a través de imágenes Docker. Buenas prácticas en Python, R, SQL y MongoDB. Experiencia de más de 5 años en la enseñanza de matemática, estadística y probabilidades. Proactivo, responsable, organizado, dedicado, capaz de transmitir eficazmente las ideas y con alto compromiso hacia la empresa y sus clientes. 
+Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universidad Simón Bolívar. Experiencia en diseño y ajuste de modelos predictivos, análisis de datos, elaboración de reportes y presentación de la información. Diseño de API REST y su implementación a través de imágenes Docker. Buenas prácticas en Python, R, Scala, SQL Server y MongoDB. Experiencia de más de 5 años en la enseñanza de matemática, estadística y probabilidades. Proactivo, responsable, organizado, dedicado, capaz de transmitir eficazmente las ideas y con alto compromiso hacia la empresa y sus clientes. 
 
 ### ANTECEDENTES LABORALES
 1. **Derco** (11/2020-Actual).
@@ -45,6 +45,9 @@ Análisis de datos, Redacción de informes con R Markdown, ajuste de modelos, de
 - **Python:**
 Análisis de datos, ajuste de modelos predictivos, programación basada en objetos. Desarrollo de API REST. Manejo avanzado de Flask-SQLAlcamy, Flask-MongoEngine, Flask-JWT-Extended,  PyMongo, h5py, conexión con Apache Spark (PySpark), entre otros.
 
+- **Scala:**
+Programación de procesos, análisis de datos y ajuste de modelos predictivos.
+
 - **Docker:**
 Diseño de imágenes (Dockerfile) para el tratamiento de datos y levantamiento de web API con Plumber de R y Flask de Python.
 
@@ -69,7 +72,7 @@ Español Nativo, Ingles intermedio.
 * *Redes neuronales Artificiales*.
 * *Modelos de Respuesta al Ítem*.
 * Desarrollo de *API REST*.
-* Programación en *Python / R*.
+* Programación en *Python / R / Scala / SQL Server*.
 * Programación de imagenes *Docker*.
 
 ### ANTECEDENTES ACADÉMICOS
@@ -95,7 +98,7 @@ Español Nativo, Ingles intermedio.
 *	García I., Vega C. Martínez J. y Córdova L. (2015) Análisis de los patrones de respuesta a la Encuesta de Opinión Estudiantil caso de estudio: Asignatura Matemáticas II. Acta Científica Venezolana 66(4).
 
 ### CURSOS
-
+* [Scala and Spark for Big Data and Machine Learning](http://ude.my/UC-b6f4d5d7-1284-4d93-bdc1-67fa96cad7e0)
 * [M001: MongoDB Basics.](https://university.mongodb.com/course_completion/d9207f78-db0b-4a61-bdb1-1e39d08de00d)
 * [REST APIs with Flask and Python.](https://www.udemy.com/certificate/UC-bbd2e31d-97ce-4c39-8ef6-e5422ce040fa/)
 * [Introduction to Python for Data Science (edX) Course.](https://www.datacamp.com/statement-of-accomplishment/course/5691d7cfb8371155ede2c00267db6ca1c1ac71e4)
