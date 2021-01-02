@@ -16,7 +16,7 @@ Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universi
 		* Análisis de datos, elaboración de informes y presentaciones.
 		* Diseño de planes estratégicos basados en la información de los datos.
 		* Automatización Azure.
-		* Programación en R, Python y SQL para la implementación de procesos BigData (Databricks).
+		* Programación en R, Python, Scala-Spark y SQL para la implementación de procesos BigData (Databricks).
 
 2. **Alto-MovUp Servicios de Consultoría Analytics Limitada** (02/2019-11/2020).
 	* *Cargo:* *Data Scientist*.
@@ -43,10 +43,10 @@ Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universi
 Análisis de datos, Redacción de informes con R Markdown, ajuste de modelos, desarrollo de aplicaciones web con Shiny, programación basada en objetos, diseño de librerías (formato CRAN). Desarrollo de web API (Plumber) y conexión con Apache Spark (Sparklyr).
 
 - **Python:**
-Análisis de datos, ajuste de modelos predictivos, programación basada en objetos. Desarrollo de API REST. Manejo avanzado de Flask-SQLAlcamy, Flask-MongoEngine, Flask-JWT-Extended,  PyMongo, h5py, conexión con Apache Spark (PySpark), entre otros.
+Análisis de datos, ajuste de modelos predictivos, programación basada en objetos. Desarrollo de API REST. Manejo avanzado de Flask-SQLAlcamy, Flask-MongoEngine, Flask-JWT-Extended, PyMongo, h5py, conexión con Apache Spark (PySpark), entre otros.
 
-- **Scala:**
-Programación de procesos, análisis de datos y ajuste de modelos predictivos.
+- **Scala-Spark:**
+Programación de procesos BigData, análisis de datos y ajuste de modelos predictivos.
 
 - **Docker:**
 Diseño de imágenes (Dockerfile) para el tratamiento de datos y levantamiento de web API con Plumber de R y Flask de Python.
@@ -72,7 +72,7 @@ Español Nativo, Ingles intermedio.
 * *Redes neuronales Artificiales*.
 * *Modelos de Respuesta al Ítem*.
 * Desarrollo de *API REST*.
-* Programación en *Python / R / Scala / SQL Server*.
+* Programación en *Python / R / Scala-Spark / SQL Server*.
 * Programación de imagenes *Docker*.
 
 ### ANTECEDENTES ACADÉMICOS
