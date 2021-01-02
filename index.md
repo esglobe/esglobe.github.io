@@ -6,7 +6,7 @@
 
 ### RESUMEN PROFESIONAL
 
-Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universidad Simón Bolívar. Experiencia en diseño y ajuste de modelos predictivos, análisis de datos, elaboración de reportes y presentación de la información. Diseño de API REST y su implementación a través de imágenes Docker. Buenas prácticas en Python, R, Scala, SQL Server y MongoDB. Experiencia de más de 5 años en la enseñanza de matemática, estadística y probabilidades. Proactivo, responsable, organizado, dedicado, capaz de transmitir eficazmente las ideas y con alto compromiso hacia la empresa y sus clientes. 
+Magíster en Estadística y candidato al Doctorado en Ingeniería de la Universidad Simón Bolívar. Experiencia en diseño y ajuste de modelos predictivos, análisis de datos, elaboración de reportes y presentación de la información. Diseño de API REST y su implementación a través de imágenes Docker. Buenas prácticas en Python, R, Scala-Spark, SQL Server y MongoDB. Experiencia de más de 5 años en la enseñanza de matemática, estadística y probabilidades. Proactivo, responsable, organizado, dedicado, capaz de transmitir eficazmente las ideas y con alto compromiso hacia la empresa y sus clientes. 
 
 ### ANTECEDENTES LABORALES
 1. **Derco** (11/2020-Actual).
