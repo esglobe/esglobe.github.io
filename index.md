@@ -98,6 +98,7 @@ Español Nativo, Ingles intermedio.
 *	García I., Vega C. Martínez J. y Córdova L. (2015) Análisis de los patrones de respuesta a la Encuesta de Opinión Estudiantil caso de estudio: Asignatura Matemáticas II. Acta Científica Venezolana 66(4).
 
 ### CURSOS
+* [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/04001485-0459-44fc-9789-be86a2432295/public_url)
 * [Scala and Spark for Big Data and Machine Learning](http://ude.my/UC-b6f4d5d7-1284-4d93-bdc1-67fa96cad7e0)
 * [M001: MongoDB Basics.](https://university.mongodb.com/course_completion/d9207f78-db0b-4a61-bdb1-1e39d08de00d)
 * [REST APIs with Flask and Python.](https://www.udemy.com/certificate/UC-bbd2e31d-97ce-4c39-8ef6-e5422ce040fa/)
