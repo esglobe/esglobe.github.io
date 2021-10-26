@@ -100,9 +100,9 @@ Español Nativo, Ingles intermedio.
 ### CERTIFICACIONES
 * [Microsoft Certified: Azure Data Scientist Associate.](https://www.credly.com/badges/33acc582-5a62-4f24-adc9-54dde9ad4c46/public_url)
 * [Microsoft Certified: Azure Fundamentals.](https://www.credly.com/badges/04001485-0459-44fc-9789-be86a2432295/public_url)
+* [SAS® Programming 1: Essentials.](https://www.credly.com/badges/c6a7c4bd-1381-4b06-9104-6574557bb9f5/public_url)
 
 ### CURSOS
-* [Microsoft Certified: Azure Fundamentals.](https://www.credly.com/badges/04001485-0459-44fc-9789-be86a2432295/public_url)
 * [Scala and Spark for Big Data and Machine Learning.](http://ude.my/UC-b6f4d5d7-1284-4d93-bdc1-67fa96cad7e0)
 * [M001: MongoDB Basics.](https://university.mongodb.com/course_completion/d9207f78-db0b-4a61-bdb1-1e39d08de00d)
 * [REST APIs with Flask and Python.](https://www.udemy.com/certificate/UC-bbd2e31d-97ce-4c39-8ef6-e5422ce040fa/)
@@ -111,5 +111,4 @@ Español Nativo, Ingles intermedio.
 * Introducción a Data Science: Programación con R.
 * [GIT + GitHub: Todo un Sistema de control de versiones de cero.](https://www.udemy.com/certificate/UC-b99a53e6-b26b-478f-852e-afd4a4527973/)
 * Intro to SQL for Data Science Course.
-* [SAS® Programming 1: Essentials.](https://www.youracclaim.com/badges/c6a7c4bd-1381-4b06-9104-6574557bb9f5/linked_in_profile)
 * Gerencia de Proyectos – Grupo Integrado para el Desarrollo de la Empresa.
